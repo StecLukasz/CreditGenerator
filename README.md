@@ -1,4 +1,5 @@
 **Credit Calculator**
+
 _Overview_
 This is a simple Java application designed to calculate credit offers based on the user's financial details. 
 
