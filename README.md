@@ -27,7 +27,7 @@ This command builds a Docker image named credit-calculator based on the instruct
 Running the Application in a Docker Container 
 After building the image, you can run the application in a Docker container using the following command:
 
-`docker-run up --build`
+`docker-compose up --build`
 
 This command starts a container named my-credit-calculator using the credit-calculator image. The -it flag attaches an interactive terminal to the container, allowing you to interact with the application. The --rm flag automatically removes the container when it stops.
 
